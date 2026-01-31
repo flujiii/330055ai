@@ -1,0 +1,13 @@
+language = "python3"
+run = "python bot.py"
+
+[packager]
+language = "python3"
+
+[packager.features]
+packageSearch = true
+guessImports = true
+
+[env]
+TELEGRAM_TOKEN = "8381083486:AAG5sxcGTEmXIEDJ-I_o1YxAzw7n6xwBdFk"
+CHAT_ID = "7520800507"
